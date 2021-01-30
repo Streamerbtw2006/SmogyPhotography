@@ -1,0 +1,120 @@
+body {
+    background-color: #dce9e5;
+    font-family: 'Roboto Mono', 'Times New Roman';
+    
+    
+}
+
+h1 {
+    font-family: 'Roboto Mono', 'Times New Roman';
+}
+
+nav {
+
+    padding-left: 17.5%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 15%;
+    
+}
+
+
+
+a {
+    font-size: 50px;
+    margin-top: auto;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    font-family: 'Roboto Mono', 'Times New Roman';
+    font-size: 25px;
+}
+.footer {
+    background-color: white;
+    height: 30vh;
+    outline: 20px solid black;
+    padding-top: 1%;
+    margin-top: 7%;
+}
+
+.title {
+    font-family: 'Roboto Condensed', 'Times New Roman' ; 
+    font-size: 50px;
+}
+
+.banner {
+    background-image: url("Photos/leave.JPG");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 80%;
+    height: 17vh;
+    margin-top: 2%;
+    padding-top: 6%;
+    margin-bottom: 5%;
+}
+
+#footerText {
+    font-family: 'Roboto Condensed', 'Times New Roman' ;    
+    font-size: 60px
+}
+
+#footerContent {
+    font-size: 30px;
+}
+
+#footerFooter{
+    font-style: italic;
+    margin-top: 70px;
+}
+
+.center{
+    text-align: center;
+}
+
+.heading {
+    font-family: 'Roboto Slab', 'Times New Roman' ;    
+
+}
+
+.abtMe {
+    font-size: 20px;
+}
+
+.About_Me{
+    
+    margin-top: 1%;
+}
+
+.hh {
+    margin-top: 10%;
+}
+
+.hobbies{
+    border-bottom: 2px solid black;
+   
+}
+
+.associateHeading{
+    background-image: url("Photos/leave.JPG");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    height: 42vh;
+    padding-top: 8%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+#associate{
+    font-family: 'Roboto Slab', 'Times New Roman' ; 
+    font-size: 60px;   
+
+}
+.associate{
+    border-bottom: 2px solid black;
+}
+
+.bruh {
+    height: 350px;
+}

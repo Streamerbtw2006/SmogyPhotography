@@ -1,0 +1,169 @@
+body {
+    background-color: #dce9e5;
+    font-family: 'Roboto Mono', 'Times New Roman';
+    
+    
+}
+
+h1 {
+    font-family: 'Roboto Mono', 'Times New Roman';
+}
+
+nav {
+
+    padding-left: 17.5%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 15%;
+    
+}
+
+a {
+    font-size: 50px;
+    margin-top: auto;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    font-family: 'Roboto Mono', 'Times New Roman';
+    font-size: 25px;
+}
+
+.test{
+    padding-left: 50%;
+}
+
+.carousel-item  {
+    height: 62rem;
+    background: #777777;
+    
+    color: white;
+    position: relative;
+}
+
+.center{
+    text-align: center;
+    font-weight: 700;
+}
+
+.aboutMe{
+    padding-top: 10%;
+}
+
+#AbtText{
+    padding-top: 5%;
+}
+
+.clientReviews{
+    background-image: url("Photos/leave.JPG");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    height: 75vh;
+    
+    text-align: center;
+    margin-top: 5%;
+}
+
+#client {
+    padding-top: 10%;
+}
+
+#clientHeading {
+    font-size: 35px;
+    
+}
+
+#clientOutline {
+    outline-color: black;
+    font-family: 'Roboto Slab', 'Times New Roman' ;    
+    font-weight: bolder;
+}
+
+#clientReview{
+    margin-top: 6%;
+    
+}
+
+#clientSection{
+    background-color: white;
+
+}
+
+#clientText{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    
+}
+
+.Book {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#bookTitle{
+    font-family: 'Roboto Slab', 'Times New Roman' ;    
+
+}
+
+#greeting {
+    font-family: 'Roboto Slab', 'Times New Roman' ;    
+
+}
+
+.footer {
+    background-color: white;
+    height: 30vh;
+    outline: 20px solid black;
+    padding-top: 1%;
+    margin-top: 10%;
+}
+
+#footerText {
+    font-family: 'Roboto Condensed', 'Times New Roman' ;    
+    font-size: 60px
+}
+
+#footerContent {
+    font-size: 30px;
+}
+
+#footerFooter{
+    font-style: italic;
+    margin-top: 70px;
+}
+
+.about{
+    font-size: 10000    ;
+}
+
+.pricingOptions{
+
+        background-image: url("Photos/Sea1.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+        text-align: center;
+        height: 60vh;
+        
+        text-align: center;
+        margin-top: 5%;
+        margin-bottom: 10%;
+    
+}
+
+#opt {
+    padding-top: 1%;
+}
+
+#pricingHeading {
+    margin-bottom: 6%;
+    font-size: 50px;
+}
+
+.PricingText {
+    
+    font-size: large;
+}
+
+.pricingSection {
+    padding-top: 3%;;
+}
+

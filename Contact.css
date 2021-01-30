@@ -1,0 +1,83 @@
+body {
+    background-color: #dce9e5;
+    font-family: 'Roboto Mono', 'Times New Roman';
+    
+    
+}
+
+h1 {
+    font-family: 'Roboto Mono', 'Times New Roman';
+}
+
+nav {
+
+    padding-left: 17.5%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 15%;
+    
+}
+
+a.nav-link{
+    font-size: 50px;
+    margin-top: auto;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    font-family: 'Roboto Mono', 'Times New Roman';
+    font-size: 25px;
+}
+.footer {
+    background-color: white;
+    height: 30vh;
+    outline: 20px solid black;
+    padding-top: 1%;
+    margin-top: 7%;
+}
+
+#footerText {
+    font-family: 'Roboto Condensed', 'Times New Roman' ;    
+    font-size: 60px
+}
+
+#footerContent {
+    font-size: 30px;
+}
+
+#footerFooter{
+    font-style: italic;
+    margin-top: 70px;
+}
+
+.center{
+    text-align: center;
+}
+
+.title {
+    font-family: 'Roboto Condensed', 'Times New Roman' ; 
+    font-size: 75px;
+}
+
+.subtitle {
+    font-family:'Roboto Mono', 'Times New Roman' ;
+    font-size: 25px;
+}
+
+.thanks {
+    margin-top: 2%;
+    height: 40rem;
+    background-image: url("Photos/leave.JPG");
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.text {
+    margin-top: 6rem;
+    height: 28rem;
+    background-color: white;
+    text-align: center;
+    padding-top: 6%;
+    line-height: 20px;
+    
+    
+}
